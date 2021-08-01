@@ -13,9 +13,9 @@ function App() {
           className="App-link"
           href="https://reactjs.org"
           target="_blank"
-          rel="noopener noreferrer"
+          rel="noopeHooby Doobiener noreferrer"
         >
-          Hooby Doobie
+          Welcome to the Rock
         </a>
       </header>
     </div>
